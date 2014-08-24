@@ -1,3 +1,9 @@
 .js-recommended-followers {
-    display: none;
+    display: none !important;
+}
+.import-prompt .js-launch-service {
+    display: none !important;
+}
+.import-prompt .flex-module-inner {
+    display: none !important;
 }
